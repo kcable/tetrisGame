@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Bungee+Shade&display=swap%27");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #3d3d5c;
+}
+
+#headline {
+  margin: 20px;
+  margin-left: 40%;
+  font-size: 50px;
+  font-family: "Bungee Shade", cursive;
+}
+
+#c1 {
+  margin: 20px;
+  margin-left: 40%;
+}
+
+#sc1 {
+  margin-left: 40%;
+  display: inline-block;
+  font-size: 50px;
+
+  font-family: "Lilita One", cursive;
+}
+
+#score {
+  display: inline-block;
+  font-size: 50px;
+
+  font-family: "Lilita One", cursive;
+}
